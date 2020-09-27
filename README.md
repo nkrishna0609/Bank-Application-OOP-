@@ -2,8 +2,10 @@
 A simple GUI-based bank application enabling the user to be a bank manager who can control the bank accounts of their customers. 
 It uses object oriented principles in Java and utilizes the state pattern.
 
+## Instructions ##
 Please run the GUI.java file within the project folder in your IDE.
 
+## Description of Functionalities ##
 You can login as the manager by entering "admin" as the username and password, and type in "manager" for the role. Once you login, 
 you have the capability of adding customers by entering their username and password in the respective textfields. Every customer 
 who gets added receives an initial balance of $100. You can also delete customers by selecting their names in the list. You may 
